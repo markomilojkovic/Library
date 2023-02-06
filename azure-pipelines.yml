@@ -8,7 +8,7 @@ trigger:
 
 pool:
   #vmImage: ubuntu-latest
-  name: TicBuildVMSS2
+  name: VMSS3-POOL
 
 steps:
 - script: echo Hello, world!
