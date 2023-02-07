@@ -8,8 +8,8 @@ trigger:
 
 pool:
   #vmImage: ubuntu-latest
-  name: VMSS-TICBUILD
-
+  #name: VMSS-TICBUILD
+  name: VMSS-CLEAN
 steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
