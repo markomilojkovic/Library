@@ -8,7 +8,7 @@ trigger:
 
 pool:
   #vmImage: ubuntu-latest
-  name: VMSS3-POOL
+  name: VMSS-Clean
 
 steps:
 - script: echo Hello, world!
